@@ -1,5 +1,7 @@
 This repository is for my attempts at solving https://projecteuler.net problems.
 
+DO NOT CHEAT! CHEATING IS NOT THE POINT HERE.
+
 -Each problem is in its own folder; the name of the folder corresponding to the 
 problem ID on the website.
 
