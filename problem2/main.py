@@ -13,4 +13,4 @@ if __name__ == "__main__":
         if third % 2 == 0:
             answer += third
 
-print(answer)
+    print(answer)
